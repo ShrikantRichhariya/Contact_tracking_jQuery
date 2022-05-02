@@ -23,3 +23,29 @@ DOCUMENT RELATED TO APPLICATION TO TRACK PERSONAL CONTACT
 13) IF YOU ARE NOT AN ADMIN YOU CANT DELETE THE ROW IN TABLE.
 
 12) LOGOUT BUTTON ON RIGHT TOP CORNER WILL TAKE YOU OUT.
+
+
+
+LOGIN WITH THESE DETAILS:
+
+
+firstName- john
+lastName-doe
+email- j@gmail.com
+mobile-9826912345
+loginName- john123
+password- john@123
+status- active
+role- admin
+
+
+firstName- virat
+lastName-kohali
+email- v@gmail.com
+mobile-	7894561231
+loginName- virat123
+password- virat@123
+status- active
+role- user
+
+
